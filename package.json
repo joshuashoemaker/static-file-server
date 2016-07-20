@@ -1,0 +1,19 @@
+{
+  "name": "static-file-server",
+  "version": "1.0.0",
+  "description": "Simple Node Server to serve static files.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Shoemaker",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuashoemaker/static-file-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joshuashoemaker/static-file-server/issues"
+  },
+  "homepage": "https://github.com/joshuashoemaker/static-file-server#readme"
+}
